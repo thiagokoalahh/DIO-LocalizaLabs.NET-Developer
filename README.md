@@ -1,2 +1,5 @@
-# Desafio de Projeto sobre Git/GitHub da DIO
+# **Repositório Dio LocalizaLabs .Net Developer**
+
 Repositório criado para o Desafio de Projeto.
+
+## Todo o meu progresso do bootcamp será publicado aqui.
