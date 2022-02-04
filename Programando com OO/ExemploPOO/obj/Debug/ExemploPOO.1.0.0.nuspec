@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ExemploPOO</id>
+    <version>1.0.0</version>
+    <authors>ExemploPOO</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Code\DIO\DIO-LocalizaLabs.NET-Developer\Programando com OO\ExemploPOO\bin\Debug\netcoreapp3.1\ExemploPOO.runtimeconfig.json" target="lib\netcoreapp3.1\ExemploPOO.runtimeconfig.json" />
+    <file src="D:\Code\DIO\DIO-LocalizaLabs.NET-Developer\Programando com OO\ExemploPOO\bin\Debug\netcoreapp3.1\ExemploPOO.dll" target="lib\netcoreapp3.1\ExemploPOO.dll" />
+  </files>
+</package>

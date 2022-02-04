@@ -1,0 +1,14 @@
+D:\Code\DIO\DIO-LocalizaLabs.NET-Developer\Programando com OO\ExemploPOO\bin\Debug\netcoreapp3.1\ExemploPOO.exe
+D:\Code\DIO\DIO-LocalizaLabs.NET-Developer\Programando com OO\ExemploPOO\bin\Debug\netcoreapp3.1\ExemploPOO.deps.json
+D:\Code\DIO\DIO-LocalizaLabs.NET-Developer\Programando com OO\ExemploPOO\bin\Debug\netcoreapp3.1\ExemploPOO.runtimeconfig.json
+D:\Code\DIO\DIO-LocalizaLabs.NET-Developer\Programando com OO\ExemploPOO\bin\Debug\netcoreapp3.1\ExemploPOO.runtimeconfig.dev.json
+D:\Code\DIO\DIO-LocalizaLabs.NET-Developer\Programando com OO\ExemploPOO\bin\Debug\netcoreapp3.1\ExemploPOO.dll
+D:\Code\DIO\DIO-LocalizaLabs.NET-Developer\Programando com OO\ExemploPOO\bin\Debug\netcoreapp3.1\ExemploPOO.pdb
+D:\Code\DIO\DIO-LocalizaLabs.NET-Developer\Programando com OO\ExemploPOO\obj\Debug\netcoreapp3.1\ExemploPOO.csproj.AssemblyReference.cache
+D:\Code\DIO\DIO-LocalizaLabs.NET-Developer\Programando com OO\ExemploPOO\obj\Debug\netcoreapp3.1\ExemploPOO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\DIO\DIO-LocalizaLabs.NET-Developer\Programando com OO\ExemploPOO\obj\Debug\netcoreapp3.1\ExemploPOO.AssemblyInfoInputs.cache
+D:\Code\DIO\DIO-LocalizaLabs.NET-Developer\Programando com OO\ExemploPOO\obj\Debug\netcoreapp3.1\ExemploPOO.AssemblyInfo.cs
+D:\Code\DIO\DIO-LocalizaLabs.NET-Developer\Programando com OO\ExemploPOO\obj\Debug\netcoreapp3.1\ExemploPOO.csproj.CoreCompileInputs.cache
+D:\Code\DIO\DIO-LocalizaLabs.NET-Developer\Programando com OO\ExemploPOO\obj\Debug\netcoreapp3.1\ExemploPOO.dll
+D:\Code\DIO\DIO-LocalizaLabs.NET-Developer\Programando com OO\ExemploPOO\obj\Debug\netcoreapp3.1\ExemploPOO.pdb
+D:\Code\DIO\DIO-LocalizaLabs.NET-Developer\Programando com OO\ExemploPOO\obj\Debug\netcoreapp3.1\ExemploPOO.genruntimeconfig.cache
