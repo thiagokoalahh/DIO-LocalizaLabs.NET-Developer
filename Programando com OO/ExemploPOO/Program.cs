@@ -1,11 +1,73 @@
-﻿using ExemploPOO.Models;
+﻿using ExemploPOO.Helper;
+using ExemploPOO.Interfaces;
+using ExemploPOO.Models;
 using System;
+using System.Collections.Generic;
+using System.IO;
 
 namespace ExemploPOO
 {
     class Program
     {
         static void Main(string[] args)
+        {
+            //PilaresOO();
+            //ClasseAbstrata();
+            //ClasseObject();
+            //Interfaces();
+            //TrabalhandoComArquivos();
+        }
+
+        private static void TrabalhandoComArquivos()
+        {
+            FileHelper helper = new FileHelper();
+            // Método criado para poder utilizar os exemplos em qualquer lugar sem precisar manualmente inserir o caminho
+            string caminho = helper.GetTrabalhandoComArquivos();
+
+            string caminhoPathCombine = Path.Combine(caminho, "Pasta Teste 1");
+            var caminhoArquivo = Path.Combine(caminho, "arquivo-teste-stream.txt");
+            var caminhoArquivoTeste = Path.Combine(caminho, "arquivo-teste.txt");
+            var caminhoArquivoTesteCopia = Path.Combine(caminho, "arquivo-teste-backup.txt");
+            var novoCaminhoArquivo = Path.Combine(caminho, "Pasta Teste 2", "arquivo-teste-stream.txt");
+
+            List<string> listaString = new List<string> { "Linha 1", "Linha 2", "Linha 3" };
+            List<string> listaStringContinuacao = new List<string> { "Linha 4", "Linha 5", "Linha 6" };
+
+            //helper.ListarDiretorios(caminho);
+            //helper.ListarArquivosDiretorios(caminho);
+            //helper.CriarDiretório(caminhoPathCombine);
+            //helper.ApagarDiretório(caminhoPathCombine);
+            //helper.CriarArquivoTexto(caminhoArquivo, "Olá! Teste de escrita de arquivo");
+            //helper.CriarArquivoTextoStream(caminhoArquivo, listaString);
+            //helper.AdicionarTextoStream(caminhoArquivo, listaStringContinuacao);
+            //helper.LerArquivoStream(caminhoArquivo);
+            //helper.MoverArquivo(caminhoArquivo, novoCaminhoArquivo, false);
+            //helper.CopiarArquivo(caminhoArquivoTeste, caminhoArquivoTesteCopia, false);
+            //helper.DeletarArquivo(caminhoArquivoTesteCopia);
+        }
+
+        private static void Interfaces()
+        {
+            ICalculadora calc = new Calculadora();
+            Console.WriteLine(calc.Somar(10, 20));
+            Console.WriteLine(calc.Multiplicar(1, 2));
+        }
+
+        private static void ClasseObject()
+        {
+            Computador comp = new Computador();
+            Console.WriteLine(comp.ToString());
+        }
+
+        private static void ClasseAbstrata()
+        {
+            Corrente c = new Corrente();
+            c.Creditar(100);
+
+            c.ExibirSaldo();
+        }
+
+        private static void PilaresOO()
         {
             // Polimorfismo
             // Sobrecarga de métodos
