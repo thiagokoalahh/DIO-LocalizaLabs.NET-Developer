@@ -1,0 +1,14 @@
+D:\Code\DIO\DIO-LocalizaLabs.NET-Developer\Construtores, Props, Delegates e Eventos em .Net\ExemploConstrutores\ExemploConstrutores\bin\Debug\netcoreapp3.1\ExemploConstrutores.exe
+D:\Code\DIO\DIO-LocalizaLabs.NET-Developer\Construtores, Props, Delegates e Eventos em .Net\ExemploConstrutores\ExemploConstrutores\bin\Debug\netcoreapp3.1\ExemploConstrutores.deps.json
+D:\Code\DIO\DIO-LocalizaLabs.NET-Developer\Construtores, Props, Delegates e Eventos em .Net\ExemploConstrutores\ExemploConstrutores\bin\Debug\netcoreapp3.1\ExemploConstrutores.runtimeconfig.json
+D:\Code\DIO\DIO-LocalizaLabs.NET-Developer\Construtores, Props, Delegates e Eventos em .Net\ExemploConstrutores\ExemploConstrutores\bin\Debug\netcoreapp3.1\ExemploConstrutores.runtimeconfig.dev.json
+D:\Code\DIO\DIO-LocalizaLabs.NET-Developer\Construtores, Props, Delegates e Eventos em .Net\ExemploConstrutores\ExemploConstrutores\bin\Debug\netcoreapp3.1\ExemploConstrutores.dll
+D:\Code\DIO\DIO-LocalizaLabs.NET-Developer\Construtores, Props, Delegates e Eventos em .Net\ExemploConstrutores\ExemploConstrutores\bin\Debug\netcoreapp3.1\ExemploConstrutores.pdb
+D:\Code\DIO\DIO-LocalizaLabs.NET-Developer\Construtores, Props, Delegates e Eventos em .Net\ExemploConstrutores\ExemploConstrutores\obj\Debug\netcoreapp3.1\ExemploConstrutores.csproj.AssemblyReference.cache
+D:\Code\DIO\DIO-LocalizaLabs.NET-Developer\Construtores, Props, Delegates e Eventos em .Net\ExemploConstrutores\ExemploConstrutores\obj\Debug\netcoreapp3.1\ExemploConstrutores.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\DIO\DIO-LocalizaLabs.NET-Developer\Construtores, Props, Delegates e Eventos em .Net\ExemploConstrutores\ExemploConstrutores\obj\Debug\netcoreapp3.1\ExemploConstrutores.AssemblyInfoInputs.cache
+D:\Code\DIO\DIO-LocalizaLabs.NET-Developer\Construtores, Props, Delegates e Eventos em .Net\ExemploConstrutores\ExemploConstrutores\obj\Debug\netcoreapp3.1\ExemploConstrutores.AssemblyInfo.cs
+D:\Code\DIO\DIO-LocalizaLabs.NET-Developer\Construtores, Props, Delegates e Eventos em .Net\ExemploConstrutores\ExemploConstrutores\obj\Debug\netcoreapp3.1\ExemploConstrutores.csproj.CoreCompileInputs.cache
+D:\Code\DIO\DIO-LocalizaLabs.NET-Developer\Construtores, Props, Delegates e Eventos em .Net\ExemploConstrutores\ExemploConstrutores\obj\Debug\netcoreapp3.1\ExemploConstrutores.dll
+D:\Code\DIO\DIO-LocalizaLabs.NET-Developer\Construtores, Props, Delegates e Eventos em .Net\ExemploConstrutores\ExemploConstrutores\obj\Debug\netcoreapp3.1\ExemploConstrutores.pdb
+D:\Code\DIO\DIO-LocalizaLabs.NET-Developer\Construtores, Props, Delegates e Eventos em .Net\ExemploConstrutores\ExemploConstrutores\obj\Debug\netcoreapp3.1\ExemploConstrutores.genruntimeconfig.cache
