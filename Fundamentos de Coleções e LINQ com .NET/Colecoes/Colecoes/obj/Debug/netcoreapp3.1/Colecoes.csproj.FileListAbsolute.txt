@@ -1,0 +1,14 @@
+D:\Code\DIO\DIO-LocalizaLabs.NET-Developer\Fundamentos de Coleções e LINQ com .NET\Colecoes\Colecoes\bin\Debug\netcoreapp3.1\Colecoes.exe
+D:\Code\DIO\DIO-LocalizaLabs.NET-Developer\Fundamentos de Coleções e LINQ com .NET\Colecoes\Colecoes\bin\Debug\netcoreapp3.1\Colecoes.deps.json
+D:\Code\DIO\DIO-LocalizaLabs.NET-Developer\Fundamentos de Coleções e LINQ com .NET\Colecoes\Colecoes\bin\Debug\netcoreapp3.1\Colecoes.runtimeconfig.json
+D:\Code\DIO\DIO-LocalizaLabs.NET-Developer\Fundamentos de Coleções e LINQ com .NET\Colecoes\Colecoes\bin\Debug\netcoreapp3.1\Colecoes.runtimeconfig.dev.json
+D:\Code\DIO\DIO-LocalizaLabs.NET-Developer\Fundamentos de Coleções e LINQ com .NET\Colecoes\Colecoes\bin\Debug\netcoreapp3.1\Colecoes.dll
+D:\Code\DIO\DIO-LocalizaLabs.NET-Developer\Fundamentos de Coleções e LINQ com .NET\Colecoes\Colecoes\bin\Debug\netcoreapp3.1\Colecoes.pdb
+D:\Code\DIO\DIO-LocalizaLabs.NET-Developer\Fundamentos de Coleções e LINQ com .NET\Colecoes\Colecoes\obj\Debug\netcoreapp3.1\Colecoes.csproj.AssemblyReference.cache
+D:\Code\DIO\DIO-LocalizaLabs.NET-Developer\Fundamentos de Coleções e LINQ com .NET\Colecoes\Colecoes\obj\Debug\netcoreapp3.1\Colecoes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\DIO\DIO-LocalizaLabs.NET-Developer\Fundamentos de Coleções e LINQ com .NET\Colecoes\Colecoes\obj\Debug\netcoreapp3.1\Colecoes.AssemblyInfoInputs.cache
+D:\Code\DIO\DIO-LocalizaLabs.NET-Developer\Fundamentos de Coleções e LINQ com .NET\Colecoes\Colecoes\obj\Debug\netcoreapp3.1\Colecoes.AssemblyInfo.cs
+D:\Code\DIO\DIO-LocalizaLabs.NET-Developer\Fundamentos de Coleções e LINQ com .NET\Colecoes\Colecoes\obj\Debug\netcoreapp3.1\Colecoes.csproj.CoreCompileInputs.cache
+D:\Code\DIO\DIO-LocalizaLabs.NET-Developer\Fundamentos de Coleções e LINQ com .NET\Colecoes\Colecoes\obj\Debug\netcoreapp3.1\Colecoes.dll
+D:\Code\DIO\DIO-LocalizaLabs.NET-Developer\Fundamentos de Coleções e LINQ com .NET\Colecoes\Colecoes\obj\Debug\netcoreapp3.1\Colecoes.pdb
+D:\Code\DIO\DIO-LocalizaLabs.NET-Developer\Fundamentos de Coleções e LINQ com .NET\Colecoes\Colecoes\obj\Debug\netcoreapp3.1\Colecoes.genruntimeconfig.cache

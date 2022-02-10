@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MJTMnULygFg9zlbRZZldSIfvJU2Nve0Wt8aVBxNE/1XnF6gml6JqRF0D0/GPfvZVzXMEU6LvjsR2zTy1VdeXXg==",
+  "success": true,
+  "projectFilePath": "D:\\Code\\DIO\\DIO-LocalizaLabs.NET-Developer\\Fundamentos de Coleções e LINQ com .NET\\Colecoes\\Colecoes\\Colecoes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thiag\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
