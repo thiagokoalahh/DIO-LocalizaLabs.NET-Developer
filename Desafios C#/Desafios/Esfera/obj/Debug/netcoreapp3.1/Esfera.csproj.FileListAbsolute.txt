@@ -1,0 +1,14 @@
+D:\Code\DIO\DIO-LocalizaLabs.NET-Developer\Desafios C#\Desafios\Esfera\bin\Debug\netcoreapp3.1\Esfera.exe
+D:\Code\DIO\DIO-LocalizaLabs.NET-Developer\Desafios C#\Desafios\Esfera\bin\Debug\netcoreapp3.1\Esfera.deps.json
+D:\Code\DIO\DIO-LocalizaLabs.NET-Developer\Desafios C#\Desafios\Esfera\bin\Debug\netcoreapp3.1\Esfera.runtimeconfig.json
+D:\Code\DIO\DIO-LocalizaLabs.NET-Developer\Desafios C#\Desafios\Esfera\bin\Debug\netcoreapp3.1\Esfera.runtimeconfig.dev.json
+D:\Code\DIO\DIO-LocalizaLabs.NET-Developer\Desafios C#\Desafios\Esfera\bin\Debug\netcoreapp3.1\Esfera.dll
+D:\Code\DIO\DIO-LocalizaLabs.NET-Developer\Desafios C#\Desafios\Esfera\bin\Debug\netcoreapp3.1\Esfera.pdb
+D:\Code\DIO\DIO-LocalizaLabs.NET-Developer\Desafios C#\Desafios\Esfera\obj\Debug\netcoreapp3.1\Esfera.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\DIO\DIO-LocalizaLabs.NET-Developer\Desafios C#\Desafios\Esfera\obj\Debug\netcoreapp3.1\Esfera.AssemblyInfoInputs.cache
+D:\Code\DIO\DIO-LocalizaLabs.NET-Developer\Desafios C#\Desafios\Esfera\obj\Debug\netcoreapp3.1\Esfera.AssemblyInfo.cs
+D:\Code\DIO\DIO-LocalizaLabs.NET-Developer\Desafios C#\Desafios\Esfera\obj\Debug\netcoreapp3.1\Esfera.csproj.CoreCompileInputs.cache
+D:\Code\DIO\DIO-LocalizaLabs.NET-Developer\Desafios C#\Desafios\Esfera\obj\Debug\netcoreapp3.1\Esfera.dll
+D:\Code\DIO\DIO-LocalizaLabs.NET-Developer\Desafios C#\Desafios\Esfera\obj\Debug\netcoreapp3.1\Esfera.pdb
+D:\Code\DIO\DIO-LocalizaLabs.NET-Developer\Desafios C#\Desafios\Esfera\obj\Debug\netcoreapp3.1\Esfera.genruntimeconfig.cache
+D:\Code\DIO\DIO-LocalizaLabs.NET-Developer\Desafios C#\Desafios\Esfera\obj\Debug\netcoreapp3.1\Esfera.csproj.AssemblyReference.cache

@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c384d157-d4c7-4245-915a-7f0f0f0e781b": {
+      "ProjectGuid": "c384d157-d4c7-4245-915a-7f0f0f0e781b",
+      "DisplayName": "Ho Ho Ho",
+      "ColorIndex": 0
+    },
+    "79f68eb2-c300-4694-94b6-7ef9c96324c0": {
+      "ProjectGuid": "79f68eb2-c300-4694-94b6-7ef9c96324c0",
+      "DisplayName": "Dividindo X por Y",
+      "ColorIndex": 1
+    },
+    "a80af487-71ef-4c99-af80-91f72ced5fbd": {
+      "ProjectGuid": "a80af487-71ef-4c99-af80-91f72ced5fbd",
+      "DisplayName": "Esfera",
+      "ColorIndex": 2
+    },
+    "f1b7f381-3242-4648-9c90-75e92dd48a9d": {
+      "ProjectGuid": "f1b7f381-3242-4648-9c90-75e92dd48a9d",
+      "DisplayName": "Xelonguinho",
+      "ColorIndex": 3
+    },
+    "073d97d8-40bc-4ecd-af4d-786ee1bbb27a": {
+      "ProjectGuid": "073d97d8-40bc-4ecd-af4d-786ee1bbb27a",
+      "DisplayName": "Pedro Bento e o Mundo de OZ",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

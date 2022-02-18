@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Pedro Bento e o Mundo de OZ/1.0.0": {
+        "runtime": {
+          "Pedro Bento e o Mundo de OZ.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pedro Bento e o Mundo de OZ/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
