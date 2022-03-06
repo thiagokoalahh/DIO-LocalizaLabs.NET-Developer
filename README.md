@@ -1,5 +1,7 @@
 # **Repositório Dio LocalizaLabs .Net Developer**
 
-Repositório criado para o Desafio de Projeto.
+Repositório do bootcamp LocalizaLabs .NET Developer, feito na Digital Innovation One
 
-## Todo o meu progresso do bootcamp será publicado aqui.
+Stack do bootcamp: C#, .NET, MVC, API, Orientação a Objetos
+
+Link do bootcamp: [Clique aqui](https://web.dio.me/track/localiza-net-developer-2)
